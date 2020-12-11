@@ -1,3 +1,3 @@
-#This is my Web Site project
+# This is my Web Site project
 
-In this project I will create a fancy web site.
+In this project I will create a fancy web site
