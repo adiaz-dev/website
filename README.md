@@ -1,2 +1,2 @@
 # my-website
-This project rules
+This project has a better way to display a web page.
